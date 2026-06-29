@@ -209,7 +209,23 @@ The [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R
 - **[SEDIA Regulatory Sandbox](https://avance.digital.gob.es/sandbox-IA/Paginas/sandbox-IA.aspx)** — Controlled testing environment for AI innovations under regulatory oversight. First EU AI Act sandbox.
 - **[ENIA — National AI Strategy](https://planderecuperacion.gob.es/noticias/conoce-Estrategia-Nacional-Inteligencia-Artificial-ENIA-IA-prtr)** — Estrategia Nacional de Inteligencia Artificial within the EU Recovery and Resilience Plan.
 
+## Open Source MCP Servers (CSOAI/MEOK Labs)
+
+*531 MIT-licensed MCP servers, the largest open-source MCP organization on GitHub. 97-component Ed25519-signed OSCAL Layer-0 proof. 479 deploy-ready.*
+
+- **[eu-ai-act-compliance-mcp](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp)** — EU AI Act compliance with 410 verbatim articles from EUR-Lex. 18 tools.
+- **[regulatory-webhook-mcp](https://github.com/CSOAI-ORG/regulatory-webhook-mcp)** — Subscribe to EU AI Act, NIS2, DORA updates via webhook. Push-notify regulatory intelligence.
+- **[meok-omnibus-tracker-mcp](https://github.com/CSOAI-ORG/meok-omnibus-tracker-mcp)** — EU AI Act + GDPR + DORA Digital Omnibus tracker. 8 cliff dates + 14 article changes.
+- **[watermarking-authenticity-mcp](https://github.com/CSOAI-ORG/watermarking-authenticity-mcp)** — EU AI Act Art.50 watermarking + C2PA 2.1. 2 Dec 2026 deadline.
+- **[solvency-ii-mcp](https://github.com/CSOAI-ORG/solvency-ii-mcp)** — First OSS implementation of the EU Solvency II regime (€10T market, ~5,000 firms).
+- **[csoai-governance-crosswalk-mcp](https://github.com/CSOAI-ORG/csoai-governance-crosswalk-mcp)** — 13 governance frameworks × 52 articles. The named crosswalk.
+- **[oscal-generator-mcp](https://github.com/CSOAI-ORG/oscal-generator-mcp)** — Machine-readable NIST OSCAL generator + Ed25519 signer. FedRAMP RFC-0024 wedge.
+- **[mica-crypto-mcp](https://github.com/CSOAI-ORG/mica-crypto-mcp)** — EU MiCA (Reg 2023/1114) for crypto-asset issuers, exchanges, CASPs.
+- **[cra-compliance-mcp](https://github.com/CSOAI-ORG/cra-compliance-mcp)** — EU Cyber Resilience Act (Reg 2024/2847). CE marking, SBOM.
+- **[22 legacy bridges](https://github.com/orgs/CSOAI-ORG/repositories?q=bridge-mcp)** — COBOL · ISO 20022 · HL7/FHIR · AS/400 · SAP · Oracle · SCADA · EDI · FIX · CICS · MQTT · ACORD · NACHA · ISO 8583 · SIP · Tax · GS1 · MISMO · DLMS · ABCI · A2A-Governance · Haulage.
+
 ## Educational Resources
+
 
 *Courses, tutorials, and articles for learning EU AI Act compliance.*
 
