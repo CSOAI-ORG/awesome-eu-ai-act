@@ -87,7 +87,7 @@ The [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R
 
 *AI Assurance techniques for adversarial testing, robustness, and vulnerability scanning (Art. 15 Robustness).*
 
-- **[Council of AI — GSPC](https://councilof.ai)** — Independent AI-governance **measurement** (not certification). Publishes a signed 14-slot GSPC board — live ruling **14 measured of 14 quotable** via [`GET /api/gspc`](https://councilof.ai/api/gspc); jail MEASURED / separation TIE; stranger verify at [/gspc-verify](https://councilof.ai/gspc-verify). Datasets + MCP: [`csoai/gspc-board`](https://huggingface.co/datasets/csoai/gspc-board) (DOI `10.57967/hf/10114`), registry `io.github.CSOAI-ORG/gspc` 1.0.3. UK CSOAI Ltd 16939677.
+- **[Council of AI — GSPC](https://councilof.ai)** — Independent AI-governance **measurement** (not certification). Living board **22 axis · 15 measured** (7 slots empty) via [`GET /api/gspc`](https://councilof.ai/api/gspc) — quote `totals.public_count`. Stranger verify at [/gspc-verify/](https://councilof.ai/gspc-verify/). MCP: [`https://councilof.ai/mcp`](https://councilof.ai/mcp). Methodology DOI [10.5281/zenodo.21991104](https://doi.org/10.5281/zenodo.21991104). UK CSOAI Ltd 16939677.
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** — Automated LLM vulnerability scanning and red-teaming. 5.7K+ GitHub stars.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** — LLM evaluation framework with 14+ evaluation metrics.
 - **[PyRIT](https://github.com/Azure/PyRIT)** — Microsoft's Python Risk Identification Tool for generative AI.
